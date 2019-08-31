@@ -1,0 +1,4 @@
+objfs_init
+objstore_init: malloc for objs helooooooooooooooooo
+objstore_init: malloc for objs
+objfs_getattr: key=/.Trash
